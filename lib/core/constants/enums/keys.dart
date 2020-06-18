@@ -1,3 +1,3 @@
 enum PreferencesKeys{
-THEME,
+VALUE
 }
